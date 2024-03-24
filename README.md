@@ -1,2 +1,2 @@
 # Machine-Learning-study
-This repository was make with the objetive to learn about machine learning and applications 
+This repository was make with the objective to learn about machine learning and applications 
